@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "111489721028",
+    "firebase_url": "https://skyone-ddb8b.firebaseio.com",
+    "project_id": "skyone-ddb8b",
+    "storage_bucket": "skyone-ddb8b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111489721028:android:b6e369749268163cfedf91",
+        "android_client_info": {
+          "package_name": "vn.com.skyone"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111489721028-n0h6ov54rnhlbe3g7nntip0cckvds5g6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vn.com.skyone",
+            "certificate_hash": "471007227b0faa7f420b2bdc3cd6d909e8409151"
+          }
+        },
+        {
+          "client_id": "111489721028-osaa90fludfnl0voe46isf98kr5n2a2m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBT1Yj0-RupH-vWbjSOcsyeAdOiecGFmJg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111489721028-osaa90fludfnl0voe46isf98kr5n2a2m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

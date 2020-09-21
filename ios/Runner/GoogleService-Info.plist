@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>111489721028-mf4fe4e3635194o51uarh4snpcgna6hm.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.111489721028-mf4fe4e3635194o51uarh4snpcgna6hm</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>111489721028-n0h6ov54rnhlbe3g7nntip0cckvds5g6.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAudCFBwtLIzNMDXQdWZkWJXf7tHg43XZQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>111489721028</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>vn.com.skyone</string>
+	<key>PROJECT_ID</key>
+	<string>skyone-ddb8b</string>
+	<key>STORAGE_BUCKET</key>
+	<string>skyone-ddb8b.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:111489721028:ios:492a03676701a377fedf91</string>
+	<key>DATABASE_URL</key>
+	<string>https://skyone-ddb8b.firebaseio.com</string>
+    <key>CFBundleURLTypes</key>
+    <array>
+        <dict>
+            <key>CFBundleTypeRole</key>
+            <string>Editor</string>
+            <key>CFBundleURLSchemes</key>
+            <array>
+                <!-- TODO Replace this value: -->
+                <!-- Copied from GoogleService-Info.plist key REVERSED_CLIENT_ID -->
+                <string>com.googleusercontent.apps.111489721028-mf4fe4e3635194o51uarh4snpcgna6hm</string>
+            </array>
+        </dict>
+    </array>
+    
+    
+    
+</dict>
+</plist>
